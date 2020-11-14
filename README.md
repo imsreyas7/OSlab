@@ -1,4 +1,4 @@
-# OSlab
+# OS Lab
 Collection of programs done for Operating Systems Lab - Sem 4
 
 ## Exercises
